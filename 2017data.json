@@ -1,0 +1,191 @@
+[
+    {
+        "crypto": "Binance", 
+        "volumes": [
+            {
+                "volume": 0, 
+                "quarter": "Q1"
+            }, 
+            {
+                "volume": 0, 
+                "quarter": "Q2"
+            }, 
+            {
+                "volume": 1010, 
+                "quarter": "Q3"
+            }, 
+            {
+                "volume": 2298, 
+                "quarter": "Q4"
+            }
+        ]
+    }, 
+    {
+        "crypto": "Bitcoin", 
+        "volumes": [
+            {
+                "volume": 20299, 
+                "quarter": "Q1"
+            }, 
+            {
+                "volume": 88497, 
+                "quarter": "Q2"
+            }, 
+            {
+                "volume": 151869, 
+                "quarter": "Q3"
+            }, 
+            {
+                "volume": 609081, 
+                "quarter": "Q4"
+            }
+        ]
+    }, 
+    {
+        "crypto": "Bitcoin Cash", 
+        "volumes": [
+            {
+                "volume": 0, 
+                "quarter": "Q1"
+            }, 
+            {
+                "volume": 0, 
+                "quarter": "Q2"
+            }, 
+            {
+                "volume": 28441, 
+                "quarter": "Q3"
+            }, 
+            {
+                "volume": 140381, 
+                "quarter": "Q4"
+            }
+        ]
+    }, 
+    {
+        "crypto": "Cardano", 
+        "volumes": [
+            {
+                "volume": 0, 
+                "quarter": "Q1"
+            }, 
+            {
+                "volume": 0, 
+                "quarter": "Q2"
+            }, 
+            {
+                "volume": 0, 
+                "quarter": "Q3"
+            }, 
+            {
+                "volume": 6439, 
+                "quarter": "Q4"
+            }
+        ]
+    }, 
+    {
+        "crypto": "Dogecoin", 
+        "volumes": [
+            {
+                "volume": 26, 
+                "quarter": "Q1"
+            }, 
+            {
+                "volume": 1562, 
+                "quarter": "Q2"
+            }, 
+            {
+                "volume": 628, 
+                "quarter": "Q3"
+            }, 
+            {
+                "volume": 1869, 
+                "quarter": "Q4"
+            }
+        ]
+    }, 
+    {
+        "crypto": "Ethereum", 
+        "volumes": [
+            {
+                "volume": 5314, 
+                "quarter": "Q1"
+            }, 
+            {
+                "volume": 52245, 
+                "quarter": "Q2"
+            }, 
+            {
+                "volume": 88542, 
+                "quarter": "Q3"
+            }, 
+            {
+                "volume": 125194, 
+                "quarter": "Q4"
+            }
+        ]
+    },
+    {
+        "crypto": "Litecoin", 
+        "volumes": [
+            {
+                "volume": 913, 
+                "quarter": "Q1"
+            }, 
+            {
+                "volume": 22780, 
+                "quarter": "Q2"
+            }, 
+            {
+                "volume": 34048, 
+                "quarter": "Q3"
+            }, 
+            {
+                "volume": 63877, 
+                "quarter": "Q4"
+            }
+        ]
+    },
+    {
+        "crypto": "Monero", 
+        "volumes": [
+            {
+                "volume": 613, 
+                "quarter": "Q1"
+            }, 
+            {
+                "volume": 1326, 
+                "quarter": "Q2"
+            }, 
+            {
+                "volume": 4299, 
+                "quarter": "Q3"
+            }, 
+            {
+                "volume": 10267, 
+                "quarter": "Q4"
+            }
+        ]
+    },
+    {
+        "crypto": "Stellar", 
+        "volumes": [
+            {
+                "volume": 25, 
+                "quarter": "Q1"
+            }, 
+            {
+                "volume": 2360, 
+                "quarter": "Q2"
+            }, 
+            {
+                "volume": 739, 
+                "quarter": "Q3"
+            }, 
+            {
+                "volume": 7934, 
+                "quarter": "Q4"
+            }
+        ]
+    }
+]
