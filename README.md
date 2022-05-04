@@ -1,2 +1,2 @@
 # Data_Visualizers
-Extract from a data set I used to visualize a the change in the trading volume of some selected crypto over 2017-2018
+Extract from a data set I used to visualize the change in trading volume of some selected crypto over the quarters in year 2018
